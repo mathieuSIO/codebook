@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Paricularity
+## Particularity
 On this project you can find the folder data. The usage of this folder is not th be deployed but the objectives of this project is to be see by every body.
 
 If you want to try this project on your local configuation you can run this project with the data folder and use a pre-build server like exemple json-server.
